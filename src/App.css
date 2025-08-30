@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(192, 191, 191);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
